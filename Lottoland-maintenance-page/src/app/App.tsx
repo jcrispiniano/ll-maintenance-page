@@ -251,7 +251,7 @@ function ContentText() {
 function Button() {
   return (
     <motion.a
-      href="https://www.lottoland.com.br/revista/mudancas-na-sua-conta-lottoland-loterias.html"
+      href="https://www.lottoland.com.br/noticias/tudo-sobre-a-lottoland/lottoland-loterias-esta-de-cara-nova/"
       className="bg-[#20f15f] content-stretch flex items-center justify-center px-[15px] py-[10px] relative rounded-[500px] shrink-0 md:px-[32px] md:py-[14px] cursor-pointer no-underline"
       data-name="Button"
       initial={{ opacity: 0, scale: 0.8 }}
